@@ -1,6 +1,6 @@
 # LearningLine
 
-第一阶段：
+第一阶段：常用html示例效果
 * HTML+CSS:
 HTML进阶、CSS进阶、div+css布局、HTML+css整站开发、
 * JavaScript基础：
